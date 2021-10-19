@@ -1,0 +1,26 @@
+Instruções de compilação{
+
+-Dentro deste diretório do projeto java.
+-Na linha de comando, digite sem as aspas "mvn assembly:single" (Necessário Maven instalado no path do sistema operacional).
+-O JAR executavel será gerado dentro da pasta target que se encontra dentro da pasta do projeto java.
+-O arquivo abrirá via linha de comando, ou se apenas clicar duas vezes em cima do .jar .
+
+-Para o Javadoc, na linha de comando, digite sem as aspas "mvn javadoc:javadoc".
+
+-Os códigos estão comentados.
+
+-Administrador atual do sistema -> Login: enola  Senha: 8802
+
+
+.. É isso.
+
+Obrigado por tudo Professor! :D \^=^/
+
+};
+/*
+Informações tecnicas:
+
+-banco do projeto: AV2Maven Release Final\src\main\resources
+-pacotes com as classes: AV2Maven Release Final\src\main\java
+-arquivos que o maven gera: C:\Users\pedro\Desktop\AV2Maven Release Final\target
+/*

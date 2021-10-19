@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/pedro/.m2/repository/org/xerial/sqlite-jdbc/3.36.0/sqlite-jdbc-3.36.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'16'
+-sourcepath
+'C:/Users/pedro/Documents/NetBeansProjects/AV2Maven/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/pedro/Documents/NetBeansProjects/AV2Maven/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'AV2Maven 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'AV2Maven 1.0-SNAPSHOT API'
