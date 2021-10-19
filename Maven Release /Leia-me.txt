@@ -20,7 +20,7 @@ Obrigado por tudo Professor! :D \^=^/
 /*
 Informações tecnicas:
 
--banco do projeto: AV2Maven Release Final\src\main\resources
--pacotes com as classes: AV2Maven Release Final\src\main\java
--arquivos que o maven gera: C:\Users\pedro\Desktop\AV2Maven Release Final\target
+-banco do projeto: Maven Release Final\src\main\resources
+-pacotes com as classes: Maven Release Final\src\main\java
+-arquivos que o maven gera: C:\Users\pedro\Desktop\Maven Release Final\target
 /*
