@@ -8,3 +8,5 @@ Java, Swing, Maven
 <br>registrar e abater aluguéis de livros relacionado aos membros cadastrados no sistema, 
 <br>adicionar e excluir administradores do sistema de biblioteca, 
 <br>ver o histórico de devoluções,  entregas atrasadas detalhando o membro a qual está o livro e o livro que está alugado.
+<br><br>
+Instruções de Build "Maven Release/Leia-me.txt"
