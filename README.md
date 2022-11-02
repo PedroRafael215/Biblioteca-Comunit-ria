@@ -1,5 +1,5 @@
 # Biblioteca-Comunit-ria
-Java - Maven
+Java, Swing, Maven
 
 <br>Projeto criado para avaliação final da disciplina de Java da faculdade.
 <br>Um sistema de Biblioteca Comunitaria, 
